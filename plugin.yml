@@ -1,0 +1,5 @@
+name: WaterDogFixCrash
+author: refaltor
+api: 4.0.0
+main: refaltor\waterdogfixcrash\Main
+version: 1.0.0
